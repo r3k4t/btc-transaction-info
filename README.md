@@ -29,7 +29,7 @@ Btc-Transaction-Info  is  a  Bitcoin Transcation Information Gathering  Tool.
 ![Screenshot from 2021-01-25 09-29-14](https://user-images.githubusercontent.com/69615463/105659239-7bf9d800-5ef2-11eb-9666-4d6fb171a14a.png)
 
 
-https://blockchain.com/btc/tx/f3282eea2b54dbc6cc14e26b8f5e210a89c18ed6ede578266d9bfea6e62d904a
+ + https://blockchain.com/btc/tx/f3282eea2b54dbc6cc14e26b8f5e210a89c18ed6ede578266d9bfea6e62d904a
 
 
 ![Screenshot from 2021-01-25 09-32-38](https://user-images.githubusercontent.com/69615463/105659320-afd4fd80-5ef2-11eb-9908-42cb7152b611.png)
